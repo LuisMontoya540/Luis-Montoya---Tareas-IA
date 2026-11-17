@@ -43,7 +43,5 @@ public class App {
        System.out.println("--------IDDFS--------");
        iddfs.Resolver(tableroinicial);
        System.out.println("");
-       
-       
     }
 }
