@@ -1,0 +1,6 @@
+Carpeta de la tarea 7
+
+codigos de ejecucion (vs code):
+
+py -3.11 .\Appreal.py
+py -3.11 .\Entrenamiento.py   
