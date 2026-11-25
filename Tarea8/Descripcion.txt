@@ -1,4 +1,4 @@
-Tarea 7: CNN - Clasificacion rostros
+Tarea8: CNN - Clasificacion rostros
 
 "Entrenar una CNN para clasificar rostros de estudiantes en
 tiempo real, utilizando el Dataset creado previammente (#6)"
