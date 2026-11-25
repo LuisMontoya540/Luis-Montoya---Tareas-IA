@@ -1,1 +1,0 @@
-Carpeta de la tarea Redes Neuronales Convolucionales (CNN) e identificacion de rostros
